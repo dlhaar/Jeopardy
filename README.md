@@ -1,0 +1,2 @@
+# Jeopardy
+cleaning, chi-square
